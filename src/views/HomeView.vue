@@ -2,7 +2,5 @@
 </script>
 
 <template>
-  <main>
-    <h1>This is the home page</h1>
-  </main>
+<h1>You are logged in</h1>
 </template>
